@@ -1,0 +1,48 @@
+body{
+    background-color: #ABC4AA;
+}
+form{
+   display: flex;
+   justify-content: center;
+}
+.container{
+    width: 400px;
+    background-color:#F3DEBA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    border-radius: 20px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+h1{
+    color: white;
+    font-family: 'Sriracha', cursive;
+    font-size: 80px;  
+}
+input{
+    width:300px;
+    padding: 8px;
+    margin-bottom: 12px;
+    font-family: 'Sriracha', cursive;
+}
+textarea{
+    width: 315px;
+    font-family: 'Sriracha', cursive;
+}
+.btn{
+    margin-top: 20px;
+    padding: 15px;
+    width: 180px;
+    font-family: 'Sriracha', cursive;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color:#1F8A70;
+    color: white;
+}
+

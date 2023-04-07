@@ -1,0 +1,9 @@
+body{
+    background-color: #ABC4AA;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Sriracha', cursive;
+}
